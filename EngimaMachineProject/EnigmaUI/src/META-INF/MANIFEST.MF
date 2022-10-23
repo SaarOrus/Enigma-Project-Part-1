@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: MainUI
+Class-Path: EnigmaMachine.jar;Logic.jar
+
